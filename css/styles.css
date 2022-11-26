@@ -1027,11 +1027,13 @@ text-align: center;
 .last_page h2{
 font-size: 50px;
 line-height: 90px;
+padding-left: 300px;
 }
 
 .last_normal_text{
 font-size: 25px;
 margin-left: 50px;
+padding-left: 200px;
 }
 
 .last_page .red_trait{
@@ -1109,6 +1111,7 @@ width: 200%;
 .last_page_right{
 height: 1000px;
 width: 900px;
+margin-right: 35px;
 }
 
 
