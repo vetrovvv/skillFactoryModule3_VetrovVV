@@ -1106,6 +1106,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 width: 200%;
+padding-left: 100px;
 }
 
 .last_page_right{
